@@ -1,0 +1,4 @@
+google-cloud-bigquery
+google-cloud-storage
+pandas
+nums_from_string
