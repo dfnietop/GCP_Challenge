@@ -5,6 +5,7 @@
      * PYTHON 3.8
    * GCP Biguery
    * Tableau Online
+   ![Modelo Arquitectura.jpg](..%2FArquitectura%2FModelo%20Arquitectura.jpg)
 2. Adquisicion de Datos:
    Para la adquisicion de datos se crea un bucket en GCP llamado bucket-gcp-challenge 
    con el fin de cargar los datos CSV de :
